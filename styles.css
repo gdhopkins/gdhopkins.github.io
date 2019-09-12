@@ -1,17 +1,7 @@
-* {
-  margin:0px;
-  padding:0px;
-}
+#navTable {width: 800px;
+			};
 
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
-}
-
-p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
-}
+.navButton {width: 150px;
+			margin: 25px;
+			text-align: center;
+			};
