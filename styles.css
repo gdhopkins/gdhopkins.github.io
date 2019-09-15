@@ -1,13 +1,12 @@
 #navTable {width: 800px;
 		margin-left: 25%;
 		margin-right: 25%;
-			};
+}
 
 .navButton {width: 150px;
 			margin: 25px;
 			text-align: center;
-			};
+}
 body {text-align: center;
-	background-color: #6280e3;
-	
-	};
+	background-color: #6280e3;	
+}
